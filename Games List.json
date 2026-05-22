@@ -565,6 +565,13 @@
           "type": 1
         },
         {
+          "titlename": "Forza Horizon 6",
+          "titleimage": "forza_horizon_6",
+          "titleicon": "https://assetsio.gnwcdn.com/forza-horizon-6.png?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+          "titlebackground": "https://images7.alphacoders.com/140/1406517.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Halo Infinite",
           "titleimage": "halo_infinite",
           "titleicon": "https://cdn2.steamgriddb.com/grid/ad3613baccebc39f8d17615c108b34f2.png",
